@@ -1,0 +1,30 @@
+body{
+	background-color: #232323;
+}
+.square{
+	background: green;
+	width: 28%;
+	padding-bottom: 28%;
+	float: left;
+	margin: 1%;
+}
+#container
+{
+	margin: 0 auto;
+	max-width: 600px;
+}
+h1{
+	text-align: center;
+	color: white;
+}
+
+#stripespace
+{
+	background-color: white;
+	text-align: center;
+}
+
+.selected
+{
+	background-color: green;
+}
